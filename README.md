@@ -1,4 +1,4 @@
-<h1>This is a chrome extension to allow video speed controls with Moodle SCORM package videos</h1>
+<h1>Moodle SCORM - Speed Up</h1>
 
 <h2>How to use:</h2>
 <ol>
